@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="informe_seu_nome">Informe seu nome</string>
+    <string name="qual_o_seu_nome">Qual o seu nome?</string>
+    <string name="segunda_tela">segunda_tela</string>
+</resources>
